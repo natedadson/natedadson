@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nathaniel Dadson
 
-<h3 align="center">🔐 Identity & AI Security Researcher | ☁️ Cloud Security Builder | 🤖 AI-Native Security Engineer</h3>
+<h3 align="center">🔐 Identity & AI Security Researcher | ☁️ IAM & Cloud Security Professional | 🤖 AI-Native Security Engineer</h3>
 
 <p align="center">
 Building practical cybersecurity tools that help organizations secure identities, detect cloud risks, and automate security operations.
