@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nathaniel Dadson
 
-### 🔐 Identity & AI Security Researcher • ☁️ Cloud & Identity Security Engineer • 🤖 Building AI-Native Security Solutions
+**🔐 Identity & AI Security Researcher • ☁️ Cloud & Identity Security Engineer • 🤖 AI-Native Security Builder**
 
 *Building practical security tools for identity governance, cloud security, and AI-assisted security operations.*
 
@@ -10,62 +10,46 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a security engineer focused on **Identity Security, Cloud Security, and AI-powered security automation**. I enjoy building tools that help organizations discover identity risks, detect cloud misconfigurations, and automate security workflows.
-
-My long-term goal is to help shape the future of **AI-native Identity and Access Management (IAM)** by combining cloud security, graph analytics, and machine learning into practical security solutions.
+I'm a security engineer focused on **Identity Security**, **Cloud Security**, and **AI-powered security automation**. I enjoy building tools that help organizations discover identity risks, detect cloud misconfigurations, and automate security workflows.
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-* ☁️ **Cloud Security Scanner** — High-performance AWS security scanner written in Go for identifying IAM, S3, and EC2 security risks.
-* 🚨 **Cloud Security Monitor** — CloudTrail monitoring platform that detects suspicious AWS activity and security events.
-* 🧠 **AI Identity Lab** — Research environment for AI-powered access reviews, identity risk scoring, and governance automation.
-* 🕸️ **Cloud Attack Path Finder** — Graph-based tool that discovers AWS IAM privilege escalation and attack paths.
-* 🤖 **Service Account Governor** — Machine identity governance platform for discovering, inventorying, and risk-scoring AWS service accounts.
-* 📊 **Cloud Security Dashboard** — Streamlit dashboard for visualizing cloud security findings and identity risk.
+☁️ **Cloud Security Scanner** — High-performance AWS security scanner written in Go.
+
+🚨 **Cloud Security Monitor** — Real-time AWS CloudTrail monitoring and threat detection.
+
+🧠 **AI Identity Lab** — AI-powered identity governance and access review research.
+
+🕸️ **Cloud Attack Path Finder** — Graph-based AWS IAM privilege escalation analysis.
+
+🤖 **Service Account Governor** — Machine identity discovery, inventory, and risk scoring.
+
+📊 **Cloud Security Dashboard** — Interactive dashboard for cloud security findings.
 
 ---
 
-## 🛠️ Tech I Work With
+### 🛠️ Tech I Work With
 
 **Languages**
 
-🐍 Python • 🐹 Go • ☕ Java • 🌐 JavaScript • 🗄️ SQL • 🐚 Bash
+🐍 Python • 🐹 Go • ☕ Java • 🌐 JavaScript • 🗄️ SQL
 
 **Cloud & Security**
 
-☁️ AWS • IAM • CloudTrail • EC2 • S3 • Lambda • Splunk • SIEM • Burp Suite • Nessus • Wireshark
+AWS • IAM • CloudTrail • EC2 • S3 • Splunk • SIEM • Burp Suite
 
 **AI & Data**
 
-🤖 Llama • Neo4j • XGBoost • Streamlit • Pandas
+Llama • Neo4j • XGBoost • Streamlit
 
 ---
 
-## 🎯 Current Focus
-
-* 🔐 Identity & Access Management (IAM)
-* ☁️ AWS Cloud Security
-* 🤖 AI for Security Engineering
-* 🧠 Identity Governance
-* 📊 Security Automation
-* 🕸️ Attack Path Analysis
-
----
-
-## 🤝 Let's Connect
+### 🤝 Connect
 
 💼 **LinkedIn:** [Nathaniel Dadson](https://www.linkedin.com/in/nathaniel-dadson-0094b0168/)
 
-⭐ If you're building in **Identity Security**, **Cloud Security**, or **AI Security**, I'd love to connect and follow your work.
-
----
-
-<div align="center">
-
-### 💡 *Building the future of AI-native Identity Security — one project at a time.*
-
-</div>
+⭐ Always happy to connect with people building in Identity Security, Cloud Security, and AI Security.
