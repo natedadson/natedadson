@@ -153,53 +153,9 @@ Git • GitHub • Linux • Docker • VS Code
 
 ---
 
-# 📚 Currently Learning
-
-🎓 Advanced IAM Architecture
-
-☁️ AWS Security Engineering
-
-🤖 AI Security Systems
-
-📈 Identity Governance
-
-🛡️ Cloud Threat Detection
-
----
-
-# 🏆 2026 Goals
-
-✅ Publish 10+ production-quality security projects
-
-☁️ Master AWS Security
-
-🤖 Build an AI-powered Identity Security Platform
-
-📝 Write technical security blogs
-
-🎤 Present security research publicly
-
-🚀 Land a senior Identity & Cloud Security Engineering role
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<!-- GitHub Stats -->
-
-<!-- GitHub Streak -->
-
-<!-- Top Languages -->
-
-</p>
-
----
-
 # 🌍 Let's Connect
 
-💼 **LinkedIn:** [(https://www.linkedin.com/in/nathaniel-dadson-0094b0168/)]
+💼 LinkedIn: [Nathaniel Dadson](https://www.linkedin.com/in/nathaniel-dadson-0094b0168/)
 
 🔬 **Research Focus:** Identity Security • Cloud Security • AI Security
 
